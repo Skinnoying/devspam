@@ -3,7 +3,7 @@ document.addEventListener('click', () => {
     let msg = msgBox.innerText;
     let count = 1;
 
-    // Prompt untuk memasukkan pesan dan jumlah pesan
+    // Prompt for Message
     let pesan = prompt('Input Message:');
     let jumlah = parseInt(prompt('Number of Message:'));
 
