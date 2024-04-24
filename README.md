@@ -11,3 +11,6 @@ I don't take any responsibility, it's for education only
 <hr>
 <li>Note :</li>
 <p>If Done Spamming, clear console and reload WhatsApp Web</p>
+
+<h2>Here The Result</h2>
+<img src="">
