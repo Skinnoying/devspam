@@ -22,4 +22,4 @@ I don't take any responsibility, it's for education only
 <img src="result_4.png" height="700" width="700">
 <hr>
 <h2>Donate Me : </h2>
-<a href="https://saweria.co/raiinime">Thanks For Donate</a>
+<a href="https://saweria.co/raiinime"><img src="https://blue.kumparan.com/image/upload/fl_progressive,fl_lossy,c_fill,q_auto:best,w_640/v1634025439/01gvcf9vy7dhk2nkx30j2wr6n5.png">
